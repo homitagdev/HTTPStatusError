@@ -1,0 +1,23 @@
+{
+  "name": "@homitag/httpstatuserror",
+  "version": "1.0.3",
+  "description": "An ES6 class that helps us create error objects with standard http codes",
+  "main": "src/HTTPStatusError.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homitagdev/HTTPStatusError.git"
+  },
+  "keywords": [
+    "http",
+    "errors"
+  ],
+  "author": "Kamarudeen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/homitagdev/HTTPStatusError/issues"
+  },
+  "homepage": "https://github.com/homitagdev/HTTPStatusError#readme"
+}
