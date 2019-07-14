@@ -1,6 +1,6 @@
 {
   "name": "@homitag/httpstatuserror",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An ES6 class that helps us create error objects with standard http codes",
   "main": "src/HTTPStatusError.js",
   "scripts": {
